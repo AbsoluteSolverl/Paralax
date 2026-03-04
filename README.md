@@ -4,6 +4,6 @@
 
 **Условие для коммерческого использования:** в продукте должен быть заметный текст вида:
 
-> Эта программа использует Paralax. Скачать: <(https://github.com/AbsoluteSolverl/Paralax/releases/tag/Paralax)>
+> Эта программа использует Paralax. Скачать: <https://github.com/AbsoluteSolverl/Paralax/releases/tag/Paralax>
 
 Текст должен быть доступен пользователю (например, в окне «О программе», в экране с кредитами или в документации).
